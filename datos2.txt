@@ -1,0 +1,10 @@
+Howard|Paredes Zegarra|Computacion|1500.00 
+Penny|Vargas Cordero|Industrial|2550.50
+Sheldon|Cooper Quizpe|Mecatronica|1850.00
+Lidya|Cooper Quizpe|Mecatronica|1850.00
+Thony|Cooper Quizpe|Mecatronica|1850.00
+Mauricio|Rodriguez|Computacion|1516.89
+Penny|Vargas Cordero|Industrial|1760
+Sheldon|Cooper Quizpe|Mecatronica|1460
+Penny|Vargas Cordero|Industrial|1560
+Howard|Paredes Zegarra|Computacion|1560.1
